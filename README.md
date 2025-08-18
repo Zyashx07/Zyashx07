@@ -48,8 +48,6 @@
   <img width="32px" alt="GeeksforGeeks" title="GeeksforGeeks" src="https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg"/>
 </a>
 &#8287;&#8287;&#8287;&#8287;&#8287;
-</a>
-&#8287;&#8287;&#8287;&#8287;&#8287;
    <a href="https://leetcode.com/yourusername" target="_blank">
   <img width="32px" alt="LeetCode" title="LeetCode" src="https://cdn.simpleicons.org/leetcode/FFA116"/>
 </a>
