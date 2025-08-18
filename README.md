@@ -33,7 +33,7 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Y+A+S+H" alt="Zyashx" />
   </a>
   <a href="https://github.com/Zyashx07/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?lines=AI%2FBackend%2F20%2B%Exploring%20The%20Lore%20Of%20Backend%20Meets%20Artificial%20Intelligence;Always%20Learning%20And%20Adapting%20To%20New%20Things&font=Fira%20Code&center=true&width=800&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" />
+    <img src="https://readme-typing-svg.demolab.com?lines=AI/Backend/20%2B%Exploring%20The%20Lore%20Of%20Backend%20And%20Artificial%20Intelligence;Always%20Learning%20And%20Adapting%20To%20New%20Things&font=Fira%20Code&center=true&width=800&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" />
   </a>
 </p>
  
