@@ -49,7 +49,7 @@
 </a>
 &#8287;&#8287;&#8287;&#8287;&#8287;
    <a href="https://leetcode.com/yourusername" target="_blank">
-  <img width="32px" alt="LeetCode" title="LeetCode" src="https://assets.streamlinehq.com/image/private/w_34,h_34,ar_1/f_auto/v1/icons/logos/leetcode-xp0gbbxtpmnkjk8uhdrmhg.png/leetcode-jj5yfhjdsmrt5j9xb3sec.png"/>
+  <img width="32px" alt="LeetCode" title="LeetCode" src="https://cdn.simpleicons.org/leetcode/FFA116"/>
 </a>
  </p>
 
