@@ -28,6 +28,13 @@
 
 ---
 
+<p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Ishan+Dutta" alt="Ishan" /></a>
+  <a href="https://github.com/ishandutta2007/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com/?lines=AI/Backend/20%2B%Exploring%20The%20Universe%20Where%20Backend%20Meets%20Artificial%20Intelligenc;Always%20Learning%20And%20Adapting %20To%20The%20New%20Things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" /></a>
+</p>
+
+---
+
 <div align="center">
 
 ## 🛠️ Tech Arsenal
