@@ -45,7 +45,7 @@
 </a>
 &#8287;&#8287;&#8287;&#8287;&#8287;
    <a href="https://auth.geeksforgeeks.org/user/mortxl" target="_blank">
-  <img width="32px" alt="GeeksforGeeks" title="GeeksforGeeks" src="https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg"/>
+  <img width="32px" alt="GeeksforGeeks" title="GeeksforGeeks" src="https://cdn.simpleicons.org/leetcode/2F8D46"/>
 </a>
 &#8287;&#8287;&#8287;&#8287;&#8287;
    <a href="https://leetcode.com/yourusername" target="_blank">
