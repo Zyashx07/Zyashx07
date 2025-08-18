@@ -177,9 +177,6 @@
 </div>
 
 <p align="center">
-<a href="https://wakatime.com/@Goblin8888"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=Goblin&theme=gotham&hide_border=true&layout=compact&hide_title=true&langs_count=14&range=all_time"  width="58%" alt="@Goblin's wakatime stats"/></a>
-  
-<p align="center">
 <a href="https://gist.github.com/PrinceGoblinTech"><img src="https://profile-counter.glitch.me/{Aleksey-Voko}/count.svg" alt="PrinceGoblinTech :: Visitor's Count" /></a>
 </p>
 
