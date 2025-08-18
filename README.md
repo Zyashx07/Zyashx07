@@ -48,10 +48,9 @@
   <img width="32px" alt="GeeksforGeeks" title="GeeksforGeeks" src="https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg"/>
 </a>
 &#8287;&#8287;&#8287;&#8287;&#8287;
-   <a href="https://leetcode.com/yashx_07" target="_blank">
+   <a href="https://leetcode.com/yourusername" target="_blank">
   <img width="32px" alt="LeetCode" title="LeetCode" src="https://upload.wikimedia.org/2011/LeetCode_logo_black.png"/>
 </a>
-&#8287;&#8287;&#8287;&#8287;&#8287;
  </p>
 
 <div align="center">
