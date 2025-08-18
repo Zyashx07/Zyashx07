@@ -36,7 +36,19 @@
     <img src="https://readme-typing-svg.demolab.com?lines=Exploring%20The%20Lore%20Of%20Backend%20And%20Artificial%20Intelligence;Always%20Learning%20And%20Adapting%20To%20New%20Things&font=Fira%20Code&center=true&width=800&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" />
   </a>
 </p>
- 
+
+ <p align="center">
+  <a href="https://twitter.com/Yash_07x"><img width="32px" alt="Twitter" title="Twitter" src="https://i.imgur.com/OXZM1L6.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+   <a href="https://www.linkedin.com/in/yashvanthganta" target="_blank">
+  <img width="32px" alt="LinkedIn" title="LinkedIn" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"/>
+</a>
+&#8287;&#8287;&#8287;&#8287;&#8287;
+   <a href="https://auth.geeksforgeeks.org/user/mortxl" target="_blank">
+  <img width="32px" alt="GeeksforGeeks" title="GeeksforGeeks" src="https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg"/>
+</a>
+&#8287;&#8287;&#8287;&#8287;&#8287;
+ </p>
 
 <div align="center">
 
