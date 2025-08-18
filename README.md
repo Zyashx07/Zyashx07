@@ -1,6 +1,6 @@
 <!-- HERO SECTION -->
 
-![Welcome Banner](https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=200&section=header&text=Hey!%20I'm%20YASH!&fontSize=45&fontAlignY=35&desc=B.Tech+CSE+|+Backend+Developer+|+AI+Enthusiast&descSize=20&descAlignY=55&fontColor=FFFFFF)
+![Welcome Banner](https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=200&section=header&text=Hey!%20I'm%20YASH!&fontSize=45&fontAlignY=35&desc=Backend+Developer+|+AI+Enthusiast&descSize=20&descAlignY=55&fontColor=FFFFFF)
 
 <!-- TYPING INTRO -->
 
@@ -12,9 +12,9 @@
 
 ## 👨‍💻 About Me
 
-- 💡 **B.Tech CSE Student** | **Backend Developer** | **AI & Python Enthusiast**  
-- 🛠️ Experienced in **Python**, **Flask**, **SQLite**, **SQL**, **Web Development**  
-- 🚀 Building **AI-powered apps & Python projects**  
+- 💡 **Backend Developer** | **AI & Python Enthusiast**  
+- 🛠️ Experienced in **Python**, **Flask**, **APIs**, **MySQL**, **Web Development**  
+- 🚀 Building **AI-Powered apps & Web Applications**  
 - 🌍 Coding from **India**, aiming to impact globally  
 - 📚 Passionate about **learning everything** and exploring new tech  
 
@@ -64,19 +64,17 @@
 
 | Project                             | Tech Stack                        | Repo Link                                           |
 | ---------------------------------- | --------------------------------- | -------------------------------------------------- |
-| **AI Quiz App**                     | Flask, Python, SQLite, OpenAI API | [Repo](https://github.com/Zyashx07/AI-Quiz-App)   |
-| **Login & Registration System**     | Flask, SQLite                     | [Repo](https://github.com/Zyashx07/Flask-Login-System) |
-| **Flask Blog Platform**             | Flask, Jinja2, SQLite             | [Repo](https://github.com/Zyashx07/Flask-Blog)    |
+| **AI Quiz App**                     | Flask, Python, SQLite, OpenAI API | Coming Soon    |
+| **AI Health Monitoring**     | Python ,Flask, SQLite, APIs                     | Coming Soon    |
+| **Flask Blog Platform**             | Flask, Jinja2, SQLite             | Coming Soon    |
 
 ---
 
 ## 🌐 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yashvanthganta)  
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Zyashx07)  
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/zyashx_07)
-
----
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Zyashx07)
+.---
 
 ## 🎸 Fun Bits
 
