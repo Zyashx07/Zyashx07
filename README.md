@@ -1,91 +1,77 @@
-<!-- HERO SECTION -->
+### Hi there 👋
+[![](https://github.com/yourusername/yourusername/blob/main/chat.svg)](https://twitter.com/yourtwitter)
 
-![Welcome Banner](https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=200&section=header&text=Hey!%20I'm%20YASH!&fontSize=45&fontAlignY=35&desc=B.Tech+CSE+|+Backend+Developer+|+AI+Enthusiast&descSize=20&descAlignY=55&fontColor=FFFFFF)
+<h3 align="center">A techie passionate about AI, Backend & Generative AI</h3>
 
-<!-- TYPING INTRO -->
+<p align="center">
+  <a href="https://github.com/yourusername?tab=repositories&sort=stargazers">
+    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=55960c&labelColor=488207&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/yourusername"/></a>
+  <a href="https://github.com/yourusername?tab=followers">
+    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/yourusername?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+</p>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=2500&pause=800&color=FF00FF&background=0D111700&center=true&vCenter=true&width=700&lines=👨‍💻+Backend+Developer;🤖+AI+&+Python+Enthusiast;🚀+Building+AI+Apps;💻+Web+Development;📚+Always+Learning)](https://git.io/typing-svg)
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Yashvanth+Ganta;AI+Developer+%26+Backend+Enthusiast;Always+Learning+New+Tech" alt="Typing SVG" />
+  </a>
+</p>
 
-![Profile Views](https://komarev.com/ghpvc/?username=Zyashx07&color=blueviolet&style=for-the-badge)
+<!-- Social icons -->
+<p align="center">
+  <a href="https://github.com/yourusername"><img width="32px" alt="GitHub" src="https://i.imgur.com/1XK3ohN.png"/></a>
+  <a href="https://www.linkedin.com/in/yashvanthganta"><img width="32px" alt="LinkedIn" src="https://i.imgur.com/Rg6ZQJm.png"/></a>
+  <a href="https://instagram.com/zyashx_07"><img width="32px" alt="Instagram" src="https://i.imgur.com/0CLkpsm.png"/></a>
+</p>
 
----
+<details> 
+  <summary><h2>🛠️ Skills & Tools</h2></summary>
+  
+  <p>
+      <img alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
+      <img alt="C" src="https://img.shields.io/badge/C-03599C?style=for-the-badge&logo=c&logoColor=white"/>
+      <img alt="C++" src="https://img.shields.io/badge/C++-9C033A?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+      <img alt="Flask" src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
+      <img alt="Django" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
+      <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+      <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+      <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+      <img alt="NumPy" src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+      <img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+      <img alt="Machine Learning" src="https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+      <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+      <img alt="REST API" src="https://img.shields.io/badge/REST_API-4AB3F4?style=for-the-badge&logo=rest&logoColor=white"/>
+      <img alt="OpenAI API" src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+      <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+      <img alt="Prompt Engineering" src="https://img.shields.io/badge/Prompt_Engineering-F75C7E?style=for-the-badge&logo=chatgpt&logoColor=white"/>
+  </p>
+</details>
 
-## 👨‍💻 About Me
+<details>
+  <summary><h2>📊 GitHub Stats</h2></summary>
+  
+  <p align="center">
+    <a href="https://github.com/yourusername">
+      <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=react&count_private=true"/>
+    </a>
+  </p>
+  
+  <p align="center">
+    <a href="https://github.com/yourusername">
+      <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=react&hide_border=true"/>
+    </a>
+  </p>
 
-- 💡 **B.Tech CSE Student** | **Backend Developer** | **AI & Python Enthusiast**  
-- 🛠️ Experienced in **Python**, **Flask**, **SQLite**, **SQL**, **Web Development**  
-- 🚀 Building **AI-powered apps & Python projects**  
-- 🌍 Coding from **India**, aiming to impact globally  
-- 📚 Passionate about **learning everything** and exploring new tech  
+  <p align="center">
+    <a href="https://github.com/yourusername">
+      <img alt="GitHub Streak" src="https://streak-stats.demolab.com/?user=yourusername&theme=react"/>
+    </a>
+  </p>
+</details>
 
----
-
-## 🔥 Current Focus
-
-- **Building:** AI apps, Web Development projects, Python projects  
-- **Exploring:** Backend architecture, serverless deployment  
-- **Practicing:** Advanced Python, Flask, APIs & DSA  
-
----
-
-<div align="center">
-
-## 🛠️ Tech Arsenal
-
-**Languages & Frameworks**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7B93E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-
-**Tools & Platforms**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
----
-
-## 📊 GitHub Dashboard
-
-![Raki's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Zyashx07&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Zyashx07&layout=compact&theme=tokyonight)
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=Zyashx07&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
-
-</div>
-
----
-
-## 🏆 Notable Projects
-
-| Project                             | Tech Stack                        | Repo Link                                           |
-| ---------------------------------- | --------------------------------- | -------------------------------------------------- |
-| **AI Quiz App**                     | Flask, Python, SQLite, OpenAI API | [Repo](https://github.com/Zyashx07/AI-Quiz-App)   |
-| **Login & Registration System**     | Flask, SQLite                     | [Repo](https://github.com/Zyashx07/Flask-Login-System) |
-| **Flask Blog Platform**             | Flask, Jinja2, SQLite             | [Repo](https://github.com/Zyashx07/Flask-Blog)    |
-
----
-
-## 🌐 Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yashvanthganta)  
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Zyashx07)  
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/zyashx_07)
-
----
-
-## 🎸 Fun Bits
-
-- 🎶 Music keeps my creativity alive  
-- 🎮 Gaming for relaxation & strategy  
-- 🌍 Huge urge to explore everything & always learn  
-
----
-
-**_"I code, I explore, I innovate."_**
-
-![Visitors](https://api.visitorbadge.io/api/visitors?path=Zyashx07&label=VISITORS&countColor=%23ba68c8)
+<details>
+  <summary><h2>🌱 Currently Learning & Projects</h2></summary>
+  
+  - Learning LangChain & advanced OpenAI integrations  
+  - Working on AI-powered backend projects  
+  - Exploring Generative AI + Serverless architecture  
+</details>
