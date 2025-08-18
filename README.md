@@ -187,7 +187,6 @@
 ## 🛠️ Tech Arsenal
 
 <details> 
-  <summary><h2>🛠️ My Favorite Tools</h2></summary>
 
   <h3>👨‍💻 Programming and Markup Languages</h3>
 
@@ -214,7 +213,7 @@
       <a href="https://github.com/search?q=user%3Aishandutta2007+language%3Ascratch"><img alt="Scratch" src="https://img.shields.io/badge/Scratch-4D97FF.svg?logo=scratch&logoColor=white"></a>
       <a href="https://github.com/search?q=user%3Aishandutta2007+language%3Asql"><img alt="SQL" src="https://custom-icon-badges.demolab.com/badge/SQL-025E8C.svg?logo=database&logoColor=white"></a>
       <a href="https://github.com/search?q=user%3Aishandutta2007+language%3Asvg"><img alt="SVG+XML" src="https://img.shields.io/badge/SVG%2BXML-e0982c.svg?logo=svg&logoColor=white"></a>
-      <a href="https://github.com/search?q=user%3Aishandutta2007+language%3AtypeScript"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC.svg?logo=typescript&logoColor=white"></a>
+      <a href="#"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC.svg?logo=typescript&logoColor=white"></a>
   </p>
 
   <h3>🧰 Frameworks and Libraries</h3>
