@@ -53,6 +53,8 @@
 </a>
  </p>
 
+----
+
  # 💻 SDE Tools and Technologies
 <div style="display: flex; align-items: flex-start; align: center">
 <table align="center">
@@ -177,7 +179,7 @@
 </div>
 
 
-<img src="https://raw.githubusercontent.com/ishandutta2007/snk/output-svg-only/github-contribution-grid-snake.svg" alt="e" style="max-width: 100%;">
+---
 
 
 <div align="center">
@@ -207,6 +209,8 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Zyashx07&layout=compact&theme=tokyonight)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Zyashx07&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+
+<img src="https://raw.githubusercontent.com/ishandutta2007/snk/output-svg-only/github-contribution-grid-snake.svg" alt="e" style="max-width: 100%;">
 
 </div>
 
