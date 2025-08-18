@@ -176,6 +176,13 @@
 <br><br>
 </div>
 
+<p align="center">
+<a href="https://gist.github.com/Zyashx07"><img src="https://profile-counter.glitch.me/{Aleksey-Voko}/count.svg" alt="Zyashx :: Visitor's Count" /></a>
+</p>
+
+<img src="https://raw.githubusercontent.com/Zyashx07/snk/output-svg-only/github-contribution-grid-snake.svg" alt="e" style="max-width: 100%;">
+
+
 <div align="center">
 
 ## 🛠️ Tech Arsenal
