@@ -18,7 +18,7 @@
 - 🌍 Coding from **India**, aiming to impact globally  
 - 📚 Passionate about **learning everything** and exploring new tech  
 
----
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 ## 🔥 Current Focus
 
@@ -26,7 +26,7 @@
 - **Exploring:** Backend architecture, serverless deployment  
 - **Practicing:** Advanced Python, Flask, APIs & DSA  
 
----
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 <p align="center">
   <a href="https://git.io/typing-svg">
@@ -53,7 +53,7 @@
 </a>
  </p>
 
-----
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
  # 💻 SDE Tools and Technologies
 <div style="display: flex; align-items: flex-start; align: center">
@@ -179,7 +179,7 @@
 </div>
 
 
----
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 
 <div align="center">
@@ -290,7 +290,7 @@
 
 
 
----
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 ## 📊 GitHub Dashboard
 
@@ -303,7 +303,7 @@
 
 </div>
 
----
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 ## 🏆 Notable Projects
 
@@ -384,7 +384,7 @@
 </div>  
 
 
- ---
+ <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 ## 🌐 Connect with Me
 
@@ -392,7 +392,7 @@
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Zyashx07)
 
----
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 ## 🎸 Fun Bits
 
@@ -400,13 +400,13 @@
 - 🎮 Gaming for relaxation & strategy  
 - 🌍 Huge urge to explore everything & always learn  
 
----
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 **_"I code, I explore, I innovate."_**
 
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=Zyashx07&label=VISITORS&countColor=%23ba68c8)
 
----
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 <div align="center">
      <img width="300" src="https://raw.githubusercontent.com/DIMFLIX/DIMFLIX/main/assets/main.gif" alt="Main GIF"/> 
