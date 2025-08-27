@@ -8,7 +8,7 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Zyashx07&color=blueviolet&style=for-the-badge)
 
----
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 ## 👨‍💻 About Me
 
