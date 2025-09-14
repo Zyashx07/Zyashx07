@@ -305,14 +305,6 @@
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
-## 🏆 Notable Projects
-
-| Project                             | Tech Stack                        | Repo Link                                           |
-| ---------------------------------- | --------------------------------- | -------------------------------------------------- |
-| **AI Quiz App**                     | Flask, Python, SQLite, OpenAI API | Coming Soon    |
-| **AI Health Monitoring**     | Python ,Flask, SQLite, APIs                     | Coming Soon    |
-| **Flask Blog Platform**             | Flask, Jinja2, SQLite             | Coming Soon    |
-
 ---
 
 ## Languages and Tools  
